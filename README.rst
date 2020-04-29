@@ -10,7 +10,7 @@ MTCNN
 Implementation of the MTCNN face detector for Keras in Python3.4+. It is written from scratch, using as a reference the implementation of
 MTCNN from David Sandberg (`FaceNet's MTCNN <https://github.com/davidsandberg/facenet/tree/master/src/align>`_) in Facenet. It is based on the paper *Zhang, K et al. (2016)* [ZHANG2016]_.
 
-.. image:: https://github.com/ipazc/mtcnn/raw/master/result.jpg
+.. image:: https://raw.githubusercontent.com/vaibhavhariaramani/mtcnn/master/result.jpg
 
 
 INSTALLATION
