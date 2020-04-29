@@ -48,7 +48,7 @@ The following example illustrates the ease of use of this package:
     >>> from mtcnn import MTCNN
     >>> import cv2
     >>>
-    >>> img = cv2.cvtColor(cv2.imread("ivan.jpg"), cv2.COLOR_BGR2RGB)
+    >>> img = cv2.cvtColor(cv2.imread("vaibhav.jpg"), cv2.COLOR_BGR2RGB)
     >>> detector = MTCNN()
     >>> detector.detect_faces(img)
     [
